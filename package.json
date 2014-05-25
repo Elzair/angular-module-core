@@ -1,6 +1,6 @@
 {
   "name": "angular-module-core",
-  "version": "1.2.15",
+  "version": "1.2.16",
   "description": "Core AngularJS module suitable for bundling with Browserify or Webpack",
   "main": "angular.js",
   "scripts": {
